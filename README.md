@@ -1,4 +1,4 @@
-# Signal Processing Projects using MATLAB 🎧📡
+# Signal Processing Projects using MATLAB 
 
 This repository contains a collection of MATLAB-based simulations and experiments on analog modulation techniques and signal filtering. It includes practical implementations of DSB-LC, DSB-SC, SSB-SC, and FM, along with noise analysis and the threshold effect.
 
