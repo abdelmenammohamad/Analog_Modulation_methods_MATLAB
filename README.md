@@ -7,7 +7,7 @@ This repository contains a collection of MATLAB-based simulations and experiment
 ## Project Contents:
 
 ### Bandlimited Audio Filtering
-- Load and interpolate real speech signals: F, B, D, S, M, N
+- Load and interpolate real vocols on letters such as: nasals (M, N), fricatives (F, S), and plosives (B, D)
 - Apply low-pass filters with cutoff frequencies ranging from 300 Hz to 3400 Hz
 - Observe how intelligibility is affected by the bandwidth
 - Plot signals in time and frequency domains
